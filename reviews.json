@@ -1,0 +1,91 @@
+{
+  "reviews": [
+    {
+      "user": "JohnDoe",
+      "comment": "Great laptop! Fast delivery.",
+      "rating": 5
+    },
+    {
+      "user": "JaneSmith",
+      "comment": "Excellent product. Very satisfied.",
+      "rating": 4
+    },
+
+    {
+      "user": "WatchLover",
+      "comment": "Looks even better in person!",
+      "rating": 5
+    },
+    {
+      "user": "TimeEnthusiast",
+      "comment": "Decent quality for the price.",
+      "rating": 4
+    },
+
+    {
+      "user": "TechieGuy",
+      "comment": "Amazing performance!",
+      "rating": 5
+    },
+    {
+      "user": "PCMaster",
+      "comment": "Fast delivery, works perfectly.",
+      "rating": 5
+    },
+
+    {
+      "user": "PhotoEnthusiast",
+      "comment": "Great quality photos!",
+      "rating": 5
+    },
+    {
+      "user": "Shutterbug",
+      "comment": "Love this camera!",
+      "rating": 5
+    },
+
+    {
+      "user": "SpecsFan",
+      "comment": "Cheap but good quality!",
+      "rating": 4
+    },
+    {
+      "user": "EyeFashionista",
+      "comment": "Nice design and comfortable to wear.",
+      "rating": 4
+    },
+
+    {
+      "user": "SneakerHead",
+      "comment": "Love these shoes! Great fit.",
+      "rating": 5
+    },
+    {
+      "user": "Runner123",
+      "comment": "Comfortable for running.",
+      "rating": 4
+    },
+
+    {
+      "user": "BagLover",
+      "comment": "Great size and quality!",
+      "rating": 5
+    },
+    {
+      "user": "Fashionista",
+      "comment": "Perfect accessory for any outfit.",
+      "rating": 5
+    },
+
+    {
+      "user": "AppleFan",
+      "comment": "Amazing phone, as always!",
+      "rating": 5
+    },
+    {
+      "user": "TechReviewer",
+      "comment": "Great camera quality.",
+      "rating": 5
+    }
+  ]
+}
